@@ -9,8 +9,8 @@ svg {
 #background {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
-  fill: white;
-  stroke: rgb(225, 228, 232);
+  fill: rgb(13,17,23);
+  stroke: rgb(0, 0, 0);
   stroke-width: 1px;
   rx: 6px;
   ry: 6px;
@@ -27,8 +27,12 @@ h2 {
   line-height: 24px;
   font-size: 16px;
   font-weight: 600;
-  color: rgb(36, 41, 46);
-  fill: rgb(36, 41, 46);
+  color: rgb(79, 162, 238);
+  fill: rgb(79, 162, 238);
+}
+
+div {
+	color: rgb(139, 148, 158);
 }
 
 ul {
@@ -36,6 +40,7 @@ ul {
   padding-left: 0;
   margin-top: 0;
   margin-bottom: 0;
+  color: rgb(139, 148, 158);
 }
 
 li {
@@ -100,7 +105,7 @@ div.ellipsis {
 <foreignObject x="21" y="17" width="318" height="176">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
-<h2>Languages Used (By File Size)</h2>
+<h2>languages used</h2>
 
 <div>
 <span class="progress">
